@@ -24,7 +24,6 @@ Este é um projeto simples de blog pessoal desenvolvido em PHP, utilizando Boots
 
 - PHP 7.4 ou superior
 - MySQL ou MariaDB
-- Composer (para gerenciar dependências)
 - Servidor web (Apache, Nginx, etc.)
 
 ---
@@ -33,9 +32,7 @@ Este é um projeto simples de blog pessoal desenvolvido em PHP, utilizando Boots
 
 1. Faça o download ou clone o repositório para sua máquina local.
 
-2. Instale as dependências do projeto utilizando o Composer.
-
-3. Configure o banco de dados MySQL:
+2. Configure o banco de dados MySQL:
    - Crie um banco de dados (por exemplo, `blog`).
    - Importe os arquivos SQL que contêm o esquema do banco e os dados de exemplo, incluindo os posts.
 
