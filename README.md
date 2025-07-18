@@ -100,7 +100,7 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE par
 ## Contato
 
 Yuri do Valle Neves  
-[GitHub](https://github.com/yurivdn) | [LinkedIn](https://linkedin.com/in/yurivdn)
+[GitHub](https://github.com/yurineves92) | [LinkedIn](https://www.linkedin.com/in/yuri-neves-555b44aa/)
 
 ---
 
